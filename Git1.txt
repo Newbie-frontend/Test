@@ -2,4 +2,5 @@ sgiasdkgasjdbfkjasd
 sdfkhbadsbf
 sdfkjadsbfask
 modified the txt page to see what is going on !
+the staged one should be shown here as we add the new one to the file
 
